@@ -1,0 +1,10 @@
+E:\Projects\WorkersAccessTest\WorkersAccessTest\bin\Debug\netcoreapp2.0\WorkersAccessTest.deps.json
+E:\Projects\WorkersAccessTest\WorkersAccessTest\bin\Debug\netcoreapp2.0\WorkersAccessTest.runtimeconfig.json
+E:\Projects\WorkersAccessTest\WorkersAccessTest\bin\Debug\netcoreapp2.0\WorkersAccessTest.runtimeconfig.dev.json
+E:\Projects\WorkersAccessTest\WorkersAccessTest\bin\Debug\netcoreapp2.0\WorkersAccessTest.dll
+E:\Projects\WorkersAccessTest\WorkersAccessTest\bin\Debug\netcoreapp2.0\WorkersAccessTest.pdb
+E:\Projects\WorkersAccessTest\WorkersAccessTest\obj\Debug\netcoreapp2.0\WorkersAccessTest.csproj.CoreCompileInputs.cache
+E:\Projects\WorkersAccessTest\WorkersAccessTest\obj\Debug\netcoreapp2.0\WorkersAccessTest.AssemblyInfoInputs.cache
+E:\Projects\WorkersAccessTest\WorkersAccessTest\obj\Debug\netcoreapp2.0\WorkersAccessTest.AssemblyInfo.cs
+E:\Projects\WorkersAccessTest\WorkersAccessTest\obj\Debug\netcoreapp2.0\WorkersAccessTest.dll
+E:\Projects\WorkersAccessTest\WorkersAccessTest\obj\Debug\netcoreapp2.0\WorkersAccessTest.pdb
