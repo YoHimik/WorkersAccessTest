@@ -14,8 +14,7 @@ Rooms (ID, SectorID - id отдела, в котором находится по
 Для контроля используется доступов используется статический класс AccessManager, у которого реализованы следующие публичные методы: 
 HasPermissionById (personId, sectorId, roomId) - возвращает true или false в зависимости от того, имеет ли сотрудник с id personId доступ
 в отдел с id sectorId в комнату с id roomId; AddPersonPermissionById (personId, sectorId, roomId) - добавляет запись в таблицу Permissions,
-давая доступ сотруднику с id personId в отдел с id sectorId в помещеение с id roomId; AddSectorPermissionById (sectorIdToAdd, sectorId, roomId)
-- добавляет запись в таблицу Permissions, давая доступ всем сотрудникам, работающим в отделе с id sectorId, в отдел с id sectorId 
+давая доступ сотруднику с id personId в отдел с id sectorId в помещеение с id roomId; AddSectorPermissionById (sectorIdToAdd, sectorId, roomId) - добавляет запись в таблицу Permissions, давая доступ всем сотрудникам, работающим в отделе с id sectorId, в отдел с id sectorId 
 в помещеение с id roomId. Каждый метод проверяет существование записей и наличие доступов. 
 
 Также для работы с базой данных реализован статический класс SqlManager, который проверяет наличие соедения с БД и выполняет вхоядщие команды.
